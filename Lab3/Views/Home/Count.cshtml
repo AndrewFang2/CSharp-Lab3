@@ -1,0 +1,20 @@
+﻿@{
+    Layout = "_Layout";
+}
+<h1>Number of Bottles: @ViewBag.numOfBottles</h1>
+@{
+    for (var i = ViewBag.numOfBottles; i > 0; i--)
+    {
+        <p>
+            <br />
+            @i green bottles hanging on the wall,
+            @i green bottles hanging on the wall,
+            And if one green bottle should accidentally fall,
+            There'll be @(i-1)  green bottles hanging on the wall.
+            <br />
+        </p>
+    }
+    <form asp-controller="Home" asp-action="Razor" method="post">
+        <button>Play Again</button>
+    </form>
+}
