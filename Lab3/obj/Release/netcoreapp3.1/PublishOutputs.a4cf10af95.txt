@@ -1,0 +1,10 @@
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.exe
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\css\StyleSheet.css
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.dll
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.deps.json
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.runtimeconfig.json
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.pdb
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.Views.dll
+C:\Users\Andre\source\repos\Lab3\Lab3\obj\Release\netcoreapp3.1\PubTmp\Out\Lab3.Views.pdb
